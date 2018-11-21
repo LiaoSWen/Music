@@ -1,0 +1,86 @@
+{
+  "result": "SUCCESS",
+  "code": 200,
+  "data": [
+    {
+    "id": "10831185",
+    "name": "Stage第2季 06期  GALA 了不起的你",
+    "singer": "GALA",
+    "desc": null,
+    "playCount": 4962035,
+    "pic": "http://p1.music.126.net/-1geADf8EbOtR5Ndp2uYnA==/109951163642051709.jpg",
+    "url": "https://api.bzqll.com/music/netease/mvUrl?id=10831185&key=579621905"
+  }, {
+    "id": "10835066",
+    "name": "云村听歌会 第9期 邵夷贝：大龄文艺女青年的爱情新番",
+    "singer": "邵夷贝",
+    "desc": null,
+    "playCount": 527798,
+    "pic": "http://p1.music.126.net/nv2odTMrBrwzvUTvQH1UyA==/109951163652209393.jpg",
+    "url": "https://api.bzqll.com/music/netease/mvUrl?id=10835066&key=579621905"
+  }, {
+    "id": "10828150",
+    "name": "上新了·故宫",
+    "singer": "邓伦/周一围",
+    "desc": "《上新了·故宫》同名主题曲",
+    "playCount": 700855,
+    "pic": "http://p1.music.126.net/OhepAF0gf2OcHNdYX9KfXA==/109951163639155057.jpg",
+    "url": "https://api.bzqll.com/music/netease/mvUrl?id=10828150&key=579621905"
+  }, {
+    "id": "10825113",
+    "name": "Stage第2季 05期 南征北战NZBZ 梦想的城池",
+    "singer": "南征北战NZBZ",
+    "desc": null,
+    "playCount": 2676758,
+    "pic": "http://p1.music.126.net/hGszzTTfeItFQBwI7Jc3AA==/109951163627135184.jpg",
+    "url": "https://api.bzqll.com/music/netease/mvUrl?id=10825113&key=579621905"
+  }, {
+    "id": "10834100",
+    "name": "爱悟 Live版",
+    "singer": "邵夷贝",
+    "desc": null,
+    "playCount": 215183,
+    "pic": "http://p1.music.126.net/TQ8f-PfKSnE9-Pi33eYQ-w==/109951163654112224.jpg",
+    "url": "https://api.bzqll.com/music/netease/mvUrl?id=10834100&key=579621905"
+  }, {
+    "id": "10808053",
+    "name": "梦不落雨林",
+    "singer": "张艺兴",
+    "desc": null,
+    "playCount": 754588,
+    "pic": "http://p1.music.126.net/Fg9kmhLwhGiLqQSOwgikXw==/109951163611942598.jpg",
+    "url": "https://api.bzqll.com/music/netease/mvUrl?id=10808053&key=579621905"
+  }, {
+    "id": "10817037",
+    "name": "Stage第2季 04期 张希&曹方 岁月绵长而我将认真度过",
+    "singer": "张希/曹方",
+    "desc": null,
+    "playCount": 3801989,
+    "pic": "http://p1.music.126.net/aahKuiXwzsrYLGXqwgd-Bw==/109951163612660610.jpg",
+    "url": "https://api.bzqll.com/music/netease/mvUrl?id=10817037&key=579621905"
+  }, {
+    "id": "10804240",
+    "name": "Stage第2季 03期 陈鸿宇 此心安处",
+    "singer": "陈鸿宇",
+    "desc": null,
+    "playCount": 4020817,
+    "pic": "http://p1.music.126.net/cusEuH64MTa_9-g6wmCRkA==/109951163599843016.jpg",
+    "url": "https://api.bzqll.com/music/netease/mvUrl?id=10804240&key=579621905"
+  }, {
+    "id": "10831071",
+    "name": "胡桃夹子组曲",
+    "singer": "郎朗",
+    "desc": null,
+    "playCount": 290726,
+    "pic": "http://p1.music.126.net/GFHf4VyFWESvFNJzaEQgbA==/109951163636880852.jpg",
+    "url": "https://api.bzqll.com/music/netease/mvUrl?id=10831071&key=579621905"
+  }, {
+    "id": "10808473",
+    "name": "念念又不忘",
+    "singer": "李荣浩",
+    "desc": "李荣浩新专辑收录曲《念念又不忘》",
+    "playCount": 346525,
+    "pic": "http://p1.music.126.net/QYvCjNhY-fD5yX1Em4WOxg==/109951163642767664.jpg",
+    "url": "https://api.bzqll.com/music/netease/mvUrl?id=10808473&key=579621905"
+  }]
+}

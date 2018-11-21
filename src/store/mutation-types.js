@@ -1,0 +1,13 @@
+export const RECEVIVE_DATA = 'RECEVIVE_DATA'
+export const SHOW_PLAY = 'SHOW_PLAY'
+export const SHOW_MUSIC_LIST = 'SHOW_MUSIC_LIST'
+export const SEND_CURRENT_LIST = 'SEND_CURRENT_LIST'
+export const SHOW_RANKING = 'SHOW_RANKING'
+export const PLAY_MUSIC = 'PLAY_MUSIC'
+export const SWITCH_PLAYING = 'SWITCH_PLAYING'
+export const SHOW_SEARCH = 'SHOW_SEARCH'
+export const SHOW_DRAWER = 'SHOW_DRAWER'
+export const SHOW_LOGIN = 'SHOW_LOGIN'
+export const CHECK_LOGIN = 'CHECK_LOGIN'
+export const CURRENT_USER = 'CURRENT_USER'
+

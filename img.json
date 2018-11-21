@@ -1,0 +1,78 @@
+{
+	"bannerImg":{
+		"img":[
+			"static/img/banner/banner1.jpg",
+			"static/img/banner/banner2.jpg",
+			"static/img/banner/banner3.jpg",
+			"static/img/banner/banner4.jpg",
+			"static/img/banner/banner5.jpg"
+		]
+		
+	},
+	"recomendMusic":[
+			{	"img":"static/img/recomendMusic/01.jpg",
+				"text":"岁月如歌，将我向老歌推",
+				"listen":"2243"
+			},
+			{	"img":"static/img/recomendMusic/02.jpg",
+				"text":"百位国人唱见，一人一首情歌",
+				"listen":"75"
+			},
+			{	"img":"static/img/recomendMusic/03.jpg",
+				"text":"予你情诗百首，余生你是我的所有",
+				"listen":"1888"
+			},
+			{	"img":"static/img/recomendMusic/04.jpg",
+				"text":"如同悲伤被下载了两次",
+				"listen":"222"
+			},
+			{	"img":"static/img/recomendMusic/05.jpg",
+				"text":"Flower Dance 各种版本",
+				"listen":"13"
+			},
+			{	"img":"static/img/recomendMusic/06.jpg",
+				"text":"小清新民谣|一听就会爱上的歌",
+				"listen":"894"
+			}
+		],
+	"newMusic":[
+			{"img":"static/img/newMusic/01.jpg",
+			 "text":"根据你的口味推荐"
+			},
+			{"img":"static/img/newMusic/02.jpg",
+			 "text":"Grapevine"
+			},
+			{"img":"static/img/newMusic/03.jpg",
+			 "text":"angela All Be.."
+			},
+			{"img":"static/img/newMusic/04.jpg",
+			 "text":"无名之辈"
+			},
+			{"img":"static/img/newMusic/05.jpg",
+			 "text":"年少有为"
+			},
+			{"img":"static/img/newMusic/06.jpg",
+			 "text":"抛物线"
+			}
+		],
+	"stationMusic":[
+			{"img":"static/img/stationMusic/01.jpg",
+			 "text":"治愈系诗歌电台"
+			},
+			{"img":	"static/img/stationMusic/02.jpg",
+			 "text":"让魅力脱口而出"
+			},
+			{"img":"static/img/stationMusic/03.jpg",
+			 "text":"著名电台与你同游"
+			},
+			{"img":"static/img/stationMusic/04.jpg",
+			 "text":"让小哥哥的迷人低音炮治愈你"
+			},
+			{"img":	"static/img/stationMusic/05.jpg",
+			 "text":"七叔爱世上所有好听的音乐"
+			},
+			{"img":"static/img/stationMusic/06.jpg",
+			 "text":"一分钟，教你轻松生活"
+			}	
+		]
+}
